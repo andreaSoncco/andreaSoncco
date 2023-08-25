@@ -1,21 +1,21 @@
-### Hi there, I'm [Andrea Soncco](https://andreaSoncco.github.io) 🧩🤓👾
+### Hi there, I'm [Andrea Soncco](https://andreaSoncco.github.io) 🙋🏻🧩🤓👾
 
 <img width="200" align="right" src="https://media.tenor.com/UXv3MWjj_wQAAAAM/grogu-lightsaber-baby-yoda-lightsaber.gif"><br>
-Hey there! I'm super passionate about programming and I love working with JavaScript, CSS, and<br>HTML. I've got some solid experience in these languages, and I've contributed to some awesome<br>projects in the laboratoria. Working with others is something I'm great at too!
+Hey there! I'm super passionate about programming and I love working with **JavaScript**, **CSS**, and<br>**HTML**. I've got some solid experience in these languages, and I've contributed to some awesome<br>projects in the **laboratoria**. Working with others is something I'm great at too! 
 
-In my previous role as an accounting assistant, I actually ran an ERP system. It was all 
+In my previous role as an **accounting assistant**, I actually ran an ERP system. It was all 
 about being efficient and accurate, and those skills totally transfer over into my programming
 work 👩‍💻.
 
-Right now, I'm really focused on JavaScript feature development and exploring the world of backend development. I'm always learning and keeping up with the latest by checking out official documentation and listening to cool podcasts 🧏🏽‍♀️.
+Right now, I'm really focused on JavaScript feature development and exploring the world of **backend development**. I'm always learning and keeping up with the latest by checking out official documentation and listening to cool podcasts 🧏🏻‍♀️.
 
-My ultimate goal is to use my experience to make websites super optimized and I'm determined to do it using agile methodologies 💡.
+My ultimate goal is to use my experience to make websites super optimized and I'm determined to do it using **agile methodologie SCRUM** 💡.
 
-More about me:
+**More about me:**
  
-- Hobbies: music, movies, cicle and go to the cinema with friends.
-- Likes: spring, chocolate and color green lemon 💚.
-- Phrase "Alway is today" 🍀.
+- **Hobbies:** Art, music, movies, cicle and go to the cinema with friends 🎨🎬🎭.
+- **Likes:** Spring, chocolate and color green lemon 💚.
+- **Phrase:** *"Alway is today"* 🍀.
 
 ## Skills:
 
