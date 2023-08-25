@@ -10,9 +10,9 @@ My ultimate goal is to use my experience to make websites super optimized and I'
 
 More about me:
  
-Hobbies: music, movies, cicle and go to the cinema with friends
-Likes: spring, chocolate and color green lemon 💚.
-Phrase "Alway is today" 🍀.
+- Hobbies: music, movies, cicle and go to the cinema with friends.
+- Likes: spring, chocolate and color green lemon 💚.
+- Phrase "Alway is today" 🍀.
 
 ## Skills:
 
