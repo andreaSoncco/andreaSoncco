@@ -15,7 +15,7 @@ My ultimate goal is to use my experience to make websites super optimized and I'
  
 - **Hobbies:** Art, music, movies, cicle and go to the cinema with friends 🎨🎬🎭.
 - **Likes:** Spring, chocolate and color green lemon 💚.
-- **Phrase:** *"Alway is today"* 🍀.
+- **Phrase:** *"Always is today"* 🍀.
 
 ## Skills:
 
