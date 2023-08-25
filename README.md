@@ -1,5 +1,7 @@
 ### Hi there, I'm [Andrea Soncco](https://andreaSoncco.github.io) 🧩🤓👾
 
+<img width="200" align="right" src="https://media.tenor.com/UXv3MWjj_wQAAAAM/grogu-lightsaber-baby-yoda-lightsaber.gif"><br>
+
 Hey there! I'm super passionate about programming and I love working with JavaScript, CSS, and HTML. I've got some solid experience in these languages, and I've contributed to some awesome projects in the laboratoria. Working with others is something I'm great at too!
 
 In my previous role as an accounting assistant, I actually ran an ERP system. It was all about being efficient and accurate, and those skills totally transfer over into my programming work 👩‍💻.
