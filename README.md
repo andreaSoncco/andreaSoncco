@@ -31,10 +31,10 @@ My ultimate goal is to use my experience to make websites super optimized and I'
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andreaSoncco&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Connect with me:
-<p align = "center">
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/andreasoncco)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/andrea_soncco)
-</p><!--
+<p align="center">
+[![LinkedIn](https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/andreasoncco)
+</p>
+<!--
 **andreaSoncco/andreaSoncco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
