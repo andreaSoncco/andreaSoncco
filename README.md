@@ -1,6 +1,6 @@
 ## Hi there, I'm [Andrea Soncco](https://andreaSoncco.github.io) 🙋🏻🧩🤓👾
 <img width="200" align="right" src="https://media.tenor.com/UXv3MWjj_wQAAAAM/grogu-lightsaber-baby-yoda-lightsaber.gif"><br>
-Hey there! I'm a Web Developer and I love working with **JavaScript**, **CSS** and **HTML**.I have a solid background in<br>these languages and have contributed to some amazing ones projects in Laboratoria. I consider myself<br>someone open to learning new technologies and tools, since computing is my passion 💚💻 and I love to see where it can take me, always exploring and looking for new and different ways to provide solutions to users 💡. Working with others is something I'm great at too! 🙋🏽.
+Hey there! I'm a Web Developer and I love working with **JavaScript**, **CSS** and **HTML**.I have a solid background in these<br>languages and have contributed to some amazing ones projects in Laboratoria. I consider myself someone<br>open to learning new technologies and tools, since computing is my passion 💚💻 and I love to see where it can take me, always exploring and looking for new and different ways to provide solutions to users 💡. Working with others is something I'm great at too! 🙋🏽.
 
 In my previous role as an **accounting assistant**, I actually ran an ERP system. It was all 
 about being efficient and accurate, and those skills totally transfer over into my programming
